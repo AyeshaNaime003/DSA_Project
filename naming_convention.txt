@@ -1,0 +1,6 @@
+files = all small or underscore between words
+.cc for c plus plus files, .h for header files
+class/struct = camel casing
+fucntions = all small, underscore
+data members of class = all small, underscore, trailing underscore
+data members of strcut =  all small, underscore
